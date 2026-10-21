@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Mega Evolution-Pitch Black ETB",
+        "price": 69.99,
+        "category": "Pokemon",
+        "description": "Elite Trainer Box featuring 9 Booster Packs of Pitch Black and 1 Promo Card.",
+        "imageUrl": "./images/pitch_black_etb.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Scarlet & Violet-Destined Rivals Booster Box",
+        "price": 199.99,
+        "category": "Pokemon",
+        "description": "Booster Display Box with 36 Booster Packs of Destined Rivals.",
+        "imageUrl": "./images/destined_rivals_box.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mega Evolution-Delta Reign Booster Bundle",
+        "price": 29.99,
+        "category": "Pokemon",
+        "description": "Booster Bundle with 6 Packs of Delta Reign.",
+        "imageUrl": "./images/delta_reign_bundle.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Scarlet & Violet-White Flare Binder Collection",
+        "price": 39.99,
+        "category": "Pokemon",
+        "description": "A thematic 9-pocket binder and 5 White Flare Booster Packs.",
+        "imageUrl": "./images/white_flare_binder.jpg"
+    },
+    {
+        "id": 5,
+        "name": "30th Celebration Mini Tin",
+        "price": 14.99,
+        "category": "Pokemon",
+        "description": "Mini Tin with 2 30th Celebration Booster Packs.",
+        "imageUrl": "./images/30_celebration_tin.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Scarlet & Violet-Black Bolt ETB",
+        "price": 79.99,
+        "category": "Pokemon",
+        "description": "Elite Trainer Box featuring 11 Booster Packs of Black Bolt and 1 Promo Card.",
+        "imageUrl": "./images/black_bolt_etb.jpg"
+    },
+    {
+        "id": 7,
+        "name": "TCG Opening Scene Playmat",
+        "price": 29.99,
+        "category": "Pokemon",
+        "description": "Pokemon TCG playmat recreation of the opening battle in Pokemon Red video game.",
+        "imageUrl": "./images/opening_scene_playmat.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Avatar: The Last Airbender Beginner Box",
+        "price": 29.99,
+        "category": "MTG",
+        "description": "Two 20-card tutorial decks, 8 Avatar: The Last Airbender-themed decks and more.",
+        "imageUrl": "./images/avatar_beginner_box.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Teenage Mutant Ninja Turtles Commander Deck",
+        "price": 49.99,
+        "category": "MTG",
+        "description": "This deck features 6 total foil legendary commanders and includes everything you need to jump into a multiplayer Commander battle.",
+        "imageUrl": "./images/tmnt_commander_deck.jpg"
+    },
+    {
+        "id": 10,
+        "name": "The Hobbit Bundle",
+        "price": 59.99,
+        "category": "MTG",
+        "description": "9 Play Boosters, 1 alt-art Traditional Foil card, 19 Traditional Foil Land cards, 15 regular Land cards.",
+        "imageUrl": "./images/hobbit_bundle.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Star Trek Play Booster Box",
+        "price": 199.99,
+        "category": "MTG",
+        "description": "30 Magic: The Gathering | Star Trek Play Boosters, each containing 14 cards.",
+        "imageUrl": "./images/star_trek_booster_box.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Reality Fracture Bundle",
+        "price": 59.99,
+        "category": "MTG",
+        "description": "9 Reality Fracture MTG Play Boosters, 1 Traditional Foil alt-art card, and 30 Land cards.",
+        "imageUrl": "./images/reality_fracture_bundle.jpg"
+    },
+    {
+        "id": 13,
+        "name": "The Dominance of God Booster Pack",
+        "price": 14.99,
+        "category": "One Piece",
+        "description": "Features characters and strategies based on the iconic Water Seven arc.",
+        "imageUrl": "./images/dominance_booster_pack.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Illustration Box Volume 8",
+        "price": 39.99,
+        "category": "One Piece",
+        "description": "This box includes 2 copies of a popular card with an appealing new illustration.",
+        "imageUrl": "./images/illustration_box.jpg"
+    },
+    {
+        "id": 15,
+        "name": "World's Strongest Warriors Booster Pack",
+        "price": 14.99,
+        "category": "One Piece",
+        "description": "Old Popular Leaders with nostalgic effects come back as brand-new Leaders.",
+        "imageUrl": "./images/warriors_booster_pack.jpg"
+    }
+]
